@@ -1,9 +1,0 @@
-<aspectj>
-    <aspects>
-        <aspect name="AuditoriaAspect"/>
-    </aspects>
-
-    <weaver options="-verbose">
-        <include within="*"/>
-    </weaver>
-</aspectj>

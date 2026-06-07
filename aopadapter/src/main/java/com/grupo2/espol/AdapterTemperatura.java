@@ -1,9 +1,9 @@
-package Adapter.AOP.monitoreotemperaturaaop;
+package com.grupo2.espol;
 
 public class AdapterTemperatura implements SensorTemperatura{
 
     private SensorFahrenheit sensorF;
-
+    
     public AdapterTemperatura(SensorFahrenheit sensorF) {
         this.sensorF = sensorF;
     }
