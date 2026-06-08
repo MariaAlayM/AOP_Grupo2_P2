@@ -1,0 +1,21 @@
+-Xajruntimetarget:1.5
+-17
+-encoding
+UTF-8
+-showWeaveInfo
+-source
+17
+-target
+17
+-verbose
+-classpath
+C:\Users\USER\.m2\repository\org\aspectj\aspectjrt\1.9.7\aspectjrt-1.9.7.jar;C:\Users\USER\.m2\repository\org\aspectj\aspectjweaver\1.9.7\aspectjweaver-1.9.7.jar;C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\target\classes
+-d
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\target\classes
+-s
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\target\generated-sources\aspectj-maven-plugin
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\src\main\java\com\grupo2\espol\AdapterTemperatura.java
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\src\main\java\com\grupo2\espol\AuditoriaAspect.java
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\src\main\java\com\grupo2\espol\Cliente.java
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\src\main\java\com\grupo2\espol\SensorFahrenheit.java
+C:\Users\USER\Documents\Proyectos Jordy\AOP_Grupo2_P2\aopadapter\src\main\java\com\grupo2\espol\SensorTemperatura.java

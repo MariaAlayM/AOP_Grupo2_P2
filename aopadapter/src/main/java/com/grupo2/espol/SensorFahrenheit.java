@@ -1,4 +1,4 @@
-package aopadapter.src.main.java.com.grupo2.espol;
+package com.grupo2.espol;
 
 
 public class SensorFahrenheit {

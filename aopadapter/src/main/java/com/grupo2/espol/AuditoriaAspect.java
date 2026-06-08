@@ -1,4 +1,4 @@
-package aopadapter.src.main.java.com.grupo2.espol;
+package com.grupo2.espol;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
@@ -6,7 +6,7 @@ import org.aspectj.lang.annotation.Aspect;
 
 @Aspect
 public class AuditoriaAspect{
-    @Around("execution(* com.grupo2.espol.AdapterTemperatura.obtenerTemperaturaCelsius(..))")
+    @Around("execution(* *AdapterTemperatura.obtenerTemperaturaCelsius(..))")
     public Object auditoriaSensor(ProceedingJoinPoint joinPoint) throws Throwable {
         System.out.println("[MANAGEMENT SYSTEM] INICIANDO");
         Object resultado = joinPoint.proceed();
