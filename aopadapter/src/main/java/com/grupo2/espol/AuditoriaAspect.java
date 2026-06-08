@@ -1,4 +1,4 @@
-package com.grupo2.espol;
+package aopadapter.src.main.java.com.grupo2.espol;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

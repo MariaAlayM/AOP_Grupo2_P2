@@ -1,4 +1,4 @@
-Singleton\AOP\impresoraaop\Usuario\Usuario.class
-Singleton\AOP\impresoraaop\Usuario\GestorImpresora.class
-Singleton\AOP\impresoraaop\Usuario\App.class
-Singleton\AOP\impresoraaop\Usuario\SingletonAspect.class
+Singleton/AOP/impresoraaop/demo/src/main/java/com/example/Usuario.class
+Singleton/AOP/impresoraaop/demo/src/main/java/com/example/App.class
+Singleton/AOP/impresoraaop/demo/src/main/java/com/example/GestorImpresora.class
+Singleton/AOP/impresoraaop/demo/src/main/java/com/example/SingletonAspect.class

@@ -1,4 +1,5 @@
-package com.grupo2.espol;
+package aopadapter.src.main.java.com.grupo2.espol;
+
 
 public class Cliente {
     public static void main(String[] args) {

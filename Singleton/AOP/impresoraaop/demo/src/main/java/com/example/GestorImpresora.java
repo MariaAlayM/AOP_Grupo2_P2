@@ -1,4 +1,5 @@
-package Singleton.AOP.impresoraaop.Usuario;
+package Singleton.AOP.impresoraaop.demo.src.main.java.com.example;
+
 
 public class GestorImpresora {
 
