@@ -1,0 +1,9 @@
+<!DOCTYPE aspectj PUBLIC "-//AspectJ//DTD//EN" "https://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+<aspectj>
+    <weaver options="-verbose -showWeaveInfo">
+        <include within="com.grupo2.espol..*"/>
+    </weaver>
+    <aspects>
+        <aspect name="com.grupo2.espol.AuditoriaAspect"/>
+    </aspects>
+</aspectj>

@@ -1,0 +1,5 @@
+com\grupo2\espol\AuditoriaAspect.class
+com\grupo2\espol\SensorTemperatura.class
+com\grupo2\espol\SensorFahrenheit.class
+com\grupo2\espol\Cliente.class
+com\grupo2\espol\AdapterTemperatura.class
